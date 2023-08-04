@@ -1,0 +1,59 @@
+.cabecalho{
+    justify-content: center;
+
+   display: flex;
+
+   gap: 10px;
+   
+   background-color: rgb(218, 192, 237);
+}
+
+.formataLink{
+    text-decoration: none;
+
+    color: black;
+
+   font-family: 'Helvetica Neue LT Pro';
+}
+
+a:hover{
+    color: rgb(74, 77, 243);
+ }
+
+.menu{
+    background-color: rgb(230, 211, 243);
+
+    display: flex;
+
+    height: 40px;
+
+    width: 100%;
+
+    justify-content: space-around;
+
+    align-items: center;
+}
+
+.footer{
+    margin-top: 10px;
+
+    background-color: rgb(222, 202, 236);
+
+    display: flex;
+
+    height: 30px;
+
+    width: 100%;
+
+    font-family: 'Helvetica Neue LT Pro';
+
+    font-style: normal;
+
+    justify-content: left;
+
+    align-items: normal;
+
+    text-align: justify;
+}
+
+
